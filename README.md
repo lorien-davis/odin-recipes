@@ -1,12 +1,6 @@
-# Name
+# Odin's Recipes
 
-Brief description of what the application does/is.
-
-## Features
-
-List the features of the application.
-
-#### Roadmap:
+A website dedicated to the All-Father's favourite foods.
 
 ## How to use?
 
