@@ -4,7 +4,7 @@ A website dedicated to the All-Father's favourite foods.
 
 ## How to use?
 
-To use in its current state, visit [link](link).
+To use in its current state, visit [https://lorien-davis.github.io/odin-recipes/](https://lorien-davis.github.io/odin-recipes/).
 
 ## Credits
 
